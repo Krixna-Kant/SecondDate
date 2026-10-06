@@ -6,8 +6,8 @@ Every person on Second is a real adult with exactly two official links: a public
 
 | | |
 | --- | --- |
-| **Live site** | _add after deploy_ (paste your own two links at `/add`) |
-| **Demo** | _add after deploy_ (the finished example, read-only) |
+| **Live site** | [seconddate.onrender.com](https://seconddate.onrender.com/) — paste your own two links at [`/add`](https://seconddate.onrender.com/add). Free tier: the first visit can take about a minute to wake up. |
+| **Demo** | [second-date-gold.vercel.app](https://second-date-gold.vercel.app/) — the finished example with 30 people, read-only. |
 | **Video** | _add after upload_ |
 
 ![Home](docs/screenshots/home.png)
@@ -72,16 +72,67 @@ Instagram URL ┘                     └─> agent "world" (lines it may speak 
 
 ### 3. Ranking
 
-`lib/rank.ts` sorts one person's notes lexicographically. A later rung never rescues an earlier one.
+#### Principle: the date decides, the profile only breaks a tie
 
-1. **Necessity.** A broken necessity ranks below everyone whose necessity held.
-2. **Second plan.** Yes, then not now, then never.
-3. **Responsiveness.** More follow-ups about the other person's actual life rank higher.
-4. **A specific plan.** A plan built on this person's real life beats a vague yes.
-5. **The snag.** Staying with a real difference beats smoothing it over.
-6. **Paper match.** Shared public language. Used only to break a tie, and to choose who dates first.
+Most matching systems score two profiles and rank by similarity. Research on real meetings shows that this predicts very little: stated preferences barely predict who people want to see again once they have actually met (Eastwick & Finkel, 2008), and self-reported traits explain who is generally liked, but almost none of the chemistry of a specific pair (Joel, Eastwick & Finkel, 2017). Second therefore ranks people by **what happened on the date**, as judged by each agent on its own, and uses profile similarity only as the last tie-break.
 
-The research behind each rung is on the [How it ranks](app/how/page.tsx) page and in [MILESTONES.md](MILESTONES.md).
+#### The evidence: one private note per side
+
+After every date, each agent writes a structured note for its own person, without seeing the other agent's note (`lib/meeting.ts`, type `Debrief` in `lib/types.ts`):
+
+| Field | Values | Meaning |
+| --- | --- | --- |
+| `necessityBroken` | true / false | The date ran against the one line this person will not bend on. |
+| `decision` | `yes` / `not-now` / `never` | Would this person want a second date? |
+| `quote` | a line from the chat | Required for a yes. Must appear in the transcript. |
+| `responsiveness` | 0, 1, 2 | Follow-up questions the other agent asked about this person's actual life. |
+| `specificPlan` | true / false | A concrete next plan came out of this person's real life. |
+| `snag` | 0, 1, 2 | A real difference was stayed with (0), smoothed over (1), or left hanging (2). |
+| `prior` | 0 to 1 | Overlap of the two people's public language. |
+| `note` | text | What the agent tells its person, in two or three sentences. |
+
+Because the two notes are written separately, **the ranking is one-sided**. Brian Chesky's agent ranks Barack Obama as *not now*, while Barack Obama's agent wanted a second date with Brian.
+
+#### The ladder
+
+`lib/rank.ts` sorts one person's notes **lexicographically**. Compare two candidates on the first rung; only if they are equal, move to the next. A later rung can never rescue an earlier one, so there is no weighted score that a strong hobby overlap can quietly inflate.
+
+| # | Rung | Order | Why it sits here |
+| --- | --- | --- | --- |
+| 1 | **Necessity** | held › broken | Necessities behave like gates, not like points to be averaged. Luxuries never compensate for a missing necessity (Li, Bailey, Kenrick & Linsenmeier, 2002). |
+| 2 | **Second plan** | yes › not now › never | The person's own after-the-date decision is the strongest available signal (Eastwick & Finkel, 2008). Interest is allowed to be one-sided (Fisman, Iyengar, Kamenica & Simonson, 2006). |
+| 3 | **Responsiveness** | 2 › 1 › 0 | Follow-up questions about the other person's life are a reliable predictor of liking (Huang, Yeomans, Brooks, Minson & Gino, 2017). |
+| 4 | **Specific plan** | yes › no | A plan built from this person's evidenced life signals real interest over a polite yes (Aron & Aron, 1986, self-expansion). |
+| 5 | **Snag** | stayed › smoothed › left hanging | Turning toward a real difference beats avoiding it (Gottman, on repair). A date with no difference gets no extra credit for being smooth. |
+| 6 | **Paper match** | higher › lower | Similarity on paper is the weaker effect compared with similarity perceived after meeting (Montoya, Horton & Kirchner, 2008), so it is used only to break a tie. |
+
+#### Guards
+
+- **No yes without evidence.** A yes whose quote does not appear in the transcript is downgraded to *not now* (`settleDebrief`), and the ranker rejects a yes with no quote at all.
+- **Separate calls.** Each turn and each note is its own model call, so a single model never writes both sides and agrees with itself.
+- **The prior stays a tie-break.** It orders who dates first and splits exact ties, but it never moves anyone across a decision.
+
+#### Who an agent dates next
+
+Each ranking page has two parts:
+
+1. **After a date.** Everyone the agent has met, sorted by the ladder above.
+2. **Next in line.** Everyone it has not met yet, ordered by paper match and labeled as a guess until they meet.
+
+When a date does not end in a yes, the agent moves on to the next person in line. The dating rounds (`npm run dates`) and newly added people (`/add`) follow the same rule.
+
+#### Tested properties
+
+`npm test` checks the ladder itself (`lib/rank.test.ts`, `lib/meeting.test.ts`):
+
+- a broken necessity sinks a hobby match that said yes;
+- a yes beats a high prior paired with a never;
+- two people can rank each other differently;
+- a yes with no quote is rejected, and a yes whose quote was never said drops to not now;
+- the prior does not cross a decision boundary;
+- among the same yes, a follow-up and a cleaner snag rank higher.
+
+The same ladder is shown in plain language on the site's [How it ranks](https://second-date-gold.vercel.app/how) page.
 
 ### What is never inferred
 
