@@ -1,0 +1,77 @@
+{
+  "dossier": {
+    "linkedinUrl": "https://www.linkedin.com/in/marcbenioff",
+    "instagramUrl": "https://www.instagram.com/benioff/",
+    "nameLinkedIn": "Marc Benioff",
+    "nameInstagram": "Marc",
+    "username": "benioff",
+    "headline": "San Francisco, California, United States",
+    "about": "Location: San Francisco · 500+ connections on LinkedIn. View Marc Benioff’s profile on LinkedIn, a professional community of 1 billion members.",
+    "location": "San Francisco, California, United States",
+    "bio": "Ceo@salesforce chair@time",
+    "privateAccount": false,
+    "loginWalled": false,
+    "lines": [
+      {
+        "platform": "LinkedIn",
+        "detail": "Headline",
+        "text": "San Francisco, California, United States"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "About",
+        "text": "Location: San Francisco · 500+ connections on LinkedIn. View Marc Benioff’s profile on LinkedIn, a professional community of 1 billion members."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Bio",
+        "text": "Ceo@salesforce chair@time"
+      }
+    ]
+  },
+  "raw": {
+    "linkedin": {
+      "success": true,
+      "error": null,
+      "name": "Marc Benioff",
+      "linkedinUrl": "https://www.linkedin.com/in/marcbenioff/",
+      "headline": "San Francisco, California, United States",
+      "location": "San Francisco, California, United States",
+      "about": "Location: San Francisco · 500+ connections on LinkedIn. View Marc Benioff’s profile on LinkedIn, a professional community of 1 billion members.",
+      "followerCount": 296237,
+      "connectionCount": "500+",
+      "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQHnSx2OOgzsSA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730225996766?e=2147483647&v=beta&t=7pDHP77XRRhSJVB5eXk3f0WNI9J19x9BuPAlrVLUAh4",
+      "backgroundImageUrl": null,
+      "currentPositions": [],
+      "education": [],
+      "languages": [],
+      "websites": [],
+      "scrapedAt": "2026-10-06T08:55:32.345Z"
+    },
+    "instagram": {
+      "inputUrl": "https://www.instagram.com/benioff",
+      "id": "60612172177",
+      "username": "benioff",
+      "url": "https://www.instagram.com/benioff",
+      "fullName": "Marc",
+      "biography": "Ceo@salesforce chair@time",
+      "externalUrls": [],
+      "followersCount": 3047,
+      "followsCount": 0,
+      "highlightReelCount": 0,
+      "isBusinessAccount": false,
+      "joinedRecently": false,
+      "businessCategoryName": null,
+      "private": false,
+      "verified": true,
+      "profilePicUrl": "https://instagram.fpaz4-1.fna.fbcdn.net/v/t51.2885-19/358514383_653388546421523_8361263180855554860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDMuYzIifQ&_nc_ht=instagram.fpaz4-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHc7FgmrNcxNHJjk5PeVnsL7gXg2PMeRLKkgWOqJnUIpP4o7YB6T_EWhhPreSsvkclxuU-ViHzEVH6jXKbbFeua&_nc_ohc=YeMBrbCF3E8Q7kNvwEPUs6Q&_nc_gid=4YzktESpb_9mebsiWhvy7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQORJeuOXp1dpsvtpfyta55puFKxrxkNXGeyyWv4H8Lu3Q&oe=6ACA8FA8&_nc_sid=8b3546",
+      "profilePicUrlHD": "https://instagram.fpaz4-1.fna.fbcdn.net/v/t51.2885-19/358514383_653388546421523_8361263180855554860_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDMuYzIifQ&_nc_ht=instagram.fpaz4-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHc7FgmrNcxNHJjk5PeVnsL7gXg2PMeRLKkgWOqJnUIpP4o7YB6T_EWhhPreSsvkclxuU-ViHzEVH6jXKbbFeua&_nc_ohc=YeMBrbCF3E8Q7kNvwEPUs6Q&_nc_gid=4YzktESpb_9mebsiWhvy7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQN1WSGfiiETfGWtK_WxCrjogV6Gqc7fQTQoNgw8ez-PxA&oe=6ACA8FA8&_nc_sid=8b3546",
+      "igtvVideoCount": 0,
+      "relatedProfiles": [],
+      "latestIgtvVideos": [],
+      "postsCount": 0,
+      "latestPosts": [],
+      "fbid": "17841460605326521"
+    }
+  }
+}

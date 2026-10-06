@@ -1,0 +1,204 @@
+{
+  "dossier": {
+    "linkedinUrl": "https://www.linkedin.com/in/melanieperkins",
+    "instagramUrl": "https://www.instagram.com/melaniecanva/",
+    "nameLinkedIn": "Melanie Perkins",
+    "nameInstagram": "Melanie Perkins",
+    "username": "melaniecanva",
+    "headline": "Co-founder & CEO at Canva",
+    "about": "Working with an incredible team to empower the world to design with Canva.",
+    "location": "Greater Sydney Area",
+    "bio": "Co-founder and CEO of @Canva. Working with an incredible team to empower the world to design.",
+    "privateAccount": false,
+    "loginWalled": false,
+    "lines": [
+      {
+        "platform": "LinkedIn",
+        "detail": "Headline",
+        "text": "Co-founder & CEO at Canva"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "About",
+        "text": "Working with an incredible team to empower the world to design with Canva."
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Location",
+        "text": "Greater Sydney Area"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Experience",
+        "text": "CEO & Co-founder at Canva"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Experience",
+        "text": "Founder and Director at Fusion Books"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Bio",
+        "text": "Co-founder and CEO of @Canva. Working with an incredible team to empower the world to design."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 1",
+        "text": "Meet Pumba - he is my little bros incredibly adorable rescue pup who was a little too scared to cross the road this morning."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 2",
+        "text": "As Canva has grown *everything* has had to change and evolve too. On people’s birthday we have always tried to do something a little special, people could choose a birthday meal that our amazing Vibe team would create - we now have more birthdays than work days in the year so had to iterate, here’s their latest creation, The Birthday Wheel. Our team is the best 😂"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 3",
+        "text": "First of Jan in Rio and my first insta post ☺️ Love getting away each year and getting to know a little more of this big, beautiful, chaotic, crazy world we live in. Always leave with a few life lessons and Brazil has certainly not disappointed."
+      }
+    ]
+  },
+  "raw": {
+    "linkedin": {
+      "success": true,
+      "error": null,
+      "name": "Melanie Perkins",
+      "linkedinUrl": "https://www.linkedin.com/in/melanieperkins/",
+      "headline": "Co-founder & CEO at Canva",
+      "location": "Greater Sydney Area",
+      "about": "Working with an incredible team to empower the world to design with Canva.",
+      "followerCount": 373336,
+      "connectionCount": "500+",
+      "profileImageUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFKMlvwPhqm5Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516350216557?e=2147483647&v=beta&t=azljBnBlI4lqIgJS3__Erlw8XVwsaiFlCUDaE_n1Zd0",
+      "backgroundImageUrl": null,
+      "currentPositions": [
+        {
+          "title": "CEO & Co-founder",
+          "company": "Canva",
+          "startDate": "2012-05"
+        },
+        {
+          "title": "Founder and Director",
+          "company": "Fusion Books",
+          "startDate": "2007-01"
+        }
+      ],
+      "education": [
+        {
+          "institution": "The University of Western Australia",
+          "degree": "Providing technical support and tuition to students, using software such as Adobe Photoshop, Adobe Flash and iMovie.",
+          "startYear": null,
+          "endYear": null
+        },
+        {
+          "institution": "University of Western Australia",
+          "degree": null,
+          "startYear": 2009,
+          "endYear": 2009
+        }
+      ],
+      "languages": [],
+      "websites": [],
+      "scrapedAt": "2026-10-06T08:54:38.445Z"
+    },
+    "instagram": {
+      "inputUrl": "https://www.instagram.com/melaniecanva",
+      "id": "531465687",
+      "username": "melaniecanva",
+      "url": "https://www.instagram.com/melaniecanva",
+      "fullName": "Melanie Perkins",
+      "biography": "Co-founder and CEO of @Canva. Working with an incredible team to empower the world to design.",
+      "externalUrls": [
+        {
+          "title": "",
+          "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fcanva.com%2F&e=AUCmxEc6uYK3XkeH7bw9_iYEqw29UsEb3X2kwlAN5yHB7NV1wKVyHuZqzg3zqYLxZ7t7iBp-XKfTaVvFMHmRkD8vFui2_6Awrs3n0cjyPGq9V6b9",
+          "url": "http://canva.com/",
+          "link_type": "external"
+        }
+      ],
+      "externalUrl": "http://canva.com/",
+      "externalUrlShimmed": "https://l.instagram.com/?u=http%3A%2F%2Fcanva.com%2F&e=AUAzwb61Qgrw-wGetOqVq1-Mn4ybU8ROqCw21cKAVmsHHx1bPIugJ2xfCjAGkabRyzvy3NcCN4Z3t49LP2qWlqt8KGli8wBshiJ9ej5id5Bal-Dk",
+      "followersCount": 53148,
+      "followsCount": 35,
+      "highlightReelCount": 0,
+      "isBusinessAccount": false,
+      "joinedRecently": false,
+      "businessCategoryName": null,
+      "private": false,
+      "verified": true,
+      "profilePicUrl": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/176299597_267126058251790_6774513127479172993_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDAuYzIifQ&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHTuAf8t_Opj7NMbZ3l9pdSF_QkpldSYxYIsSkkR9UAjmSBLab82OqkE3PjCUjCZYhDaYw_LBx1-vz_Ttf7uxwC&_nc_ohc=TRM-IlCYuh4Q7kNvwFPB4Bq&_nc_gid=zYBUiEWsueEy7qAs9Y_Zbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQNQOvo4UZm5QVIl6TZVBBCSekhc5ZaNGY219As7H-DTfg&oe=6ACA8191&_nc_sid=8b3546",
+      "profilePicUrlHD": "https://scontent-icn2-1.cdninstagram.com/v/t51.2885-19/176299597_267126058251790_6774513127479172993_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDAuYzIifQ&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHTuAf8t_Opj7NMbZ3l9pdSF_QkpldSYxYIsSkkR9UAjmSBLab82OqkE3PjCUjCZYhDaYw_LBx1-vz_Ttf7uxwC&_nc_ohc=TRM-IlCYuh4Q7kNvwFPB4Bq&_nc_gid=zYBUiEWsueEy7qAs9Y_Zbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQOBJVZzsDb2adHZ3iyk0YPvKfqvnfhFcm-8RhoJjZEsrQ&oe=6ACA8191&_nc_sid=8b3546",
+      "igtvVideoCount": 0,
+      "relatedProfiles": [],
+      "latestIgtvVideos": [],
+      "postsCount": 3,
+      "latestPosts": [
+        {
+          "id": "1965170486913915919",
+          "type": "Image",
+          "shortCode": "BtFsCVbldwP",
+          "caption": "Meet Pumba - he is my little bros incredibly adorable rescue pup who was a little too scared to cross the road this morning.",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/BtFsCVbldwP/",
+          "commentsCount": 472,
+          "dimensionsHeight": 1080,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/628982772_18528335407070564_8650759373852286138_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHTuAf8t_Opj7NMbZ3l9pdSF_QkpldSYxYIsSkkR9UAjmSBLab82OqkE3PjCUjCZYhDaYw_LBx1-vz_Ttf7uxwC&_nc_ohc=McfvKVNubIoQ7kNvwGXt-4-&_nc_gid=zYBUiEWsueEy7qAs9Y_Zbw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MTk2NTE3MDQ4NjkxMzkxNTkxOQ%3D%3D.3-ccb7-5&oh=00_AQNwPtAcB-XNzXideLuol68cRsRcLJjPxfhgU84F66pI_w&oe=6ACA9E44&_nc_sid=8b3546",
+          "images": [],
+          "alt": null,
+          "likesCount": 9931,
+          "timestamp": "2019-01-26T07:09:59.000Z",
+          "childPosts": [],
+          "ownerUsername": "melaniecanva",
+          "ownerId": "531465687",
+          "isCommentsDisabled": false
+        },
+        {
+          "id": "1959421193636683899",
+          "type": "Image",
+          "shortCode": "BsxQzG0FiB7",
+          "caption": "As Canva has grown *everything* has had to change and evolve too. On people’s birthday we have always tried to do something a little special, people could choose a birthday meal that our amazing Vibe team would create - we now have more birthdays than work days in the year so had to iterate, here’s their latest creation, The Birthday Wheel. Our team is the best 😂",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/BsxQzG0FiB7/",
+          "commentsCount": 120,
+          "dimensionsHeight": 1080,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/625129005_18334488031243669_5470737214461971523_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHTuAf8t_Opj7NMbZ3l9pdSF_QkpldSYxYIsSkkR9UAjmSBLab82OqkE3PjCUjCZYhDaYw_LBx1-vz_Ttf7uxwC&_nc_ohc=zojjIJqJlmUQ7kNvwEqS7XO&_nc_gid=zYBUiEWsueEy7qAs9Y_Zbw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MTk1OTQyMTE5MzYzNjY4Mzg5OQ%3D%3D.3-ccb7-5&oh=00_AQN90Gyb_-elwHDrWhetcsXCwetjwkNDXl1oJPiMYljRfg&oe=6ACA723B&_nc_sid=8b3546",
+          "images": [],
+          "alt": null,
+          "likesCount": 6092,
+          "timestamp": "2019-01-18T08:47:10.000Z",
+          "childPosts": [],
+          "ownerUsername": "melaniecanva",
+          "ownerId": "531465687",
+          "isCommentsDisabled": false
+        },
+        {
+          "id": "1947497240928384667",
+          "type": "Image",
+          "shortCode": "BsG5mwelvab",
+          "caption": "First of Jan in Rio and my first insta post ☺️ Love getting away each year and getting to know a little more of this big, beautiful, chaotic, crazy world we live in. Always leave with a few life lessons and Brazil has certainly not disappointed.",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/BsG5mwelvab/",
+          "commentsCount": 237,
+          "dimensionsHeight": 1080,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-icn2-1.cdninstagram.com/v/t51.82787-15/627672498_18432763021115320_7382177474354076467_n.jpg?stp=dst-jpg_e15_fr_s1080x1080_tt6&_nc_ht=scontent-icn2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHTuAf8t_Opj7NMbZ3l9pdSF_QkpldSYxYIsSkkR9UAjmSBLab82OqkE3PjCUjCZYhDaYw_LBx1-vz_Ttf7uxwC&_nc_ohc=R2nyW2RK5T4Q7kNvwFQn1J-&_nc_gid=zYBUiEWsueEy7qAs9Y_Zbw&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=MTk0NzQ5NzI0MDkyODM4NDY2Nw%3D%3D.3-ccb7-5&oh=00_AQMLfxcQeiOBo0cK1W3PC0E2Pr5wo9M-Ee8mBqg9NFBpgg&oe=6ACA788A&_nc_sid=8b3546",
+          "images": [],
+          "alt": null,
+          "likesCount": 8017,
+          "timestamp": "2019-01-01T21:56:24.000Z",
+          "childPosts": [],
+          "ownerUsername": "melaniecanva",
+          "ownerId": "531465687",
+          "isCommentsDisabled": false
+        }
+      ],
+      "fbid": "17841400290618304"
+    }
+  }
+}

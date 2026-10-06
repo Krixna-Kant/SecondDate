@@ -1,0 +1,670 @@
+{
+  "dossier": {
+    "linkedinUrl": "https://www.linkedin.com/in/brenebrown",
+    "instagramUrl": "https://www.instagram.com/brenebrown/",
+    "nameLinkedIn": "Brené Brown",
+    "nameInstagram": "Brené Brown",
+    "username": "brenebrown",
+    "headline": "University of Houston + University of Texas at Austin",
+    "about": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business. Brené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
+    "location": "Houston, Texas, United States",
+    "bio": "Researcher. Storyteller. Texan. HOU + ATX via SATX",
+    "privateAccount": false,
+    "loginWalled": false,
+    "lines": [
+      {
+        "platform": "LinkedIn",
+        "detail": "Headline",
+        "text": "University of Houston + University of Texas at Austin"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "About",
+        "text": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business. Brené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy."
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Location",
+        "text": "Houston, Texas, United States"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Experience",
+        "text": "Professor of Practice at The University of Texas at Austin - Red McCombs School of Business"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Experience",
+        "text": "Founder at Brené Brown Education and Research Group"
+      },
+      {
+        "platform": "LinkedIn",
+        "detail": "Experience",
+        "text": "Huffington Endowed Chair + Research Professor at University of Houston"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Bio",
+        "text": "Researcher. Storyteller. Texan. HOU + ATX via SATX"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 1",
+        "text": "This is one of my favorite @thecuriosityshop episodes. In a world where everyone and everything is fighting for our attention, our rage, and our money, we exam what makes us vulnerable to persuasion and how we can develop stronger influence literacy skills. It’s the best kind of collision between Adam’s, “think like a scientist” research and my work on shame and vulnerability. Biggest finding: Shame around being persuadable makes us more vulnerable to influence. Acknowledging that we are vulnerable to those reels and TikTok’s and snake oil pitches makes us more resistant! If you want to dive into the original research - all of the studies are cited in the show notes for the podcast. You can download or watch the episode now!"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 2",
+        "text": "@adamgrant and I loved talking with @angelalduckworth about her new book, “Situated.” Big takeaway: “To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters—and to an astonishing degree: Culture matters. Mentors matter. Teammates matter. Even the objects in your personal space matter. How you think about your goals and what you’re willing to do to achieve them depends on both you and your situation.” I also loved our conversation about billboards - those signs we post around our spaces as reminders of what’s important. It reminds of why I like to write in a room where my children’s art is hanging. The kids’ art is my favorite art and it’s imperfect and honest. Grit is great, but I also need the environment to say, “Have fun. Just start.” To watch or listen to the episode, head to YouTube or wherever you listen to podcasts."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 3",
+        "text": "To my Longhorn family: Try not to step in the bullshit left behind by small-minded people. Stay strong. Like UT vs OSU strong. 🧡🤘🏻🤍"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 4",
+        "text": "Priya Parker, one of my favorite thinkers and writers, is joining @thecuriosityshop this week and we’re talking about fighting! Not “dukes up” fighting but how real heat and conflict can build connection if we’re willing to learn how to do it well. What I love about this conversation and Priya’s new book - “The Art of Fighting” - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she’s just so honest and fun! To watch or listen to the full episode, head to YouTube or wherever you listen to podcasts."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 5",
+        "text": "Aaron Sandel @prof.sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions. Aaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and face the effects of division within their own community. Aaron also reflects on what it was like to watch chimps he knew by name turn against one another, while exploring the surprising depth of bonds in this community. If you’re trying to find me this semester, I’ll be the one sneaking into Aaron’s class at UT Austin! I have so many more questions! To listen or watch the full episode, head to YouTube or wherever you listen to podcasts."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 6",
+        "text": "GAME DAY! Hook ‘em! 🧡🤍🏈🤍🧡"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 7",
+        "text": "Grateful for a mother who warned her daughters about the price she paid for trying to conform to nice girl culture in the 1950’s. We didn’t know all of the details of her wounds, but we fully understood the depth of her pain. When she died she had framed pictures of Gloria Steinem and Angela Davis over her desk. Quote: Gloria Steinem’s remarks at the National Organization for Women’s March for the Equal Rights Amendment, Washington, D.C., July 9, 1978, as reported in James Lardner and Neil Henry, “Over 40,000 ERA Backers March,” Washington Post, July 10, 1978 📸 Warren K. Leffler"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 8",
+        "text": "Celebrating Dolly has me thinking about the joy of reading books and how often I squander that pleasure by putting myself under pressure to consume pages. We are all craving deep reading, deep thinking, and deep connection — and these all require deep time. I went back this morning and re-read the interview we did with @mayasmarty and was drawn to her phrase the “privilege of focus.” Let’s start a spiritual book club where we read what we want, when we want, no meetings or deadlines - just a shared reframe of deep time as subversive in a world of shallow distraction, addictive scrolling, and unrelenting attention grabbing. ❤️📖❤️"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 9",
+        "text": "Sometimes shiny is great. Sometimes it’s dangerous. Episode available on YouTube or wherever you listen to podcasts."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 10",
+        "text": "You left our hearts better than you found them. Thank you, Dolly. David Gahr 📸"
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 11",
+        "text": "The paradox of a pair of clocks. The magic of Chronos and Kairos or why I wear two watches! From my AMA this week on @thecuriosityshop. To listen or watch the full episode, head to YouTube or wherever you listen to podcasts."
+      },
+      {
+        "platform": "Instagram",
+        "detail": "Caption · 12",
+        "text": "A conversation about life, love, belonging, and why access matters. Grateful to our guest @johngreenwritesbooks. To watch or listen to this episode, head to YouTube or wherever you listen to podcasts."
+      }
+    ]
+  },
+  "raw": {
+    "linkedin": {
+      "success": true,
+      "error": null,
+      "name": "Brené Brown",
+      "linkedinUrl": "https://www.linkedin.com/in/brenebrown/",
+      "headline": "University of Houston + University of Texas at Austin",
+      "location": "Houston, Texas, United States",
+      "about": "Brené Brown is a research professor at the University of Houston, where she holds the Huffington Foundation Endowed Chair at the Graduate College of Social Work. She also holds the position of Professor of Practice in Management at The University of Texas at Austin McCombs School of Business.<br><br>Brené is the author of six #1 New York Times bestsellers and the host of two award-winning podcasts. Brené spends most of her time working in organizations around the world, helping develop braver leaders and more courageous cultures. In 2024, she was named Executive Chair of the Center for Daring Leadership at BetterUp. She lives in Houston, Texas, with her husband, Steve. They have two children, Ellen and Charlie, and a weird Bichon Frisé named Lucy.",
+      "followerCount": 4998991,
+      "connectionCount": "500+",
+      "profileImageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEFOXiSPcWWbA/profile-displayphoto-scale_200_200/B56Zjh3j9sHQAc-/0/1756136096324?e=2147483647&v=beta&t=ebexCx2erp8t3MeymXG6fQtezTyb2wjQfS7rkVWBK9o",
+      "backgroundImageUrl": null,
+      "currentPositions": [
+        {
+          "title": "Professor of Practice",
+          "company": "The University of Texas at Austin - Red McCombs School of Business",
+          "startDate": "2020-01"
+        },
+        {
+          "title": "Founder",
+          "company": "Brené Brown Education and Research Group",
+          "startDate": "2016"
+        },
+        {
+          "title": "Huffington Endowed Chair + Research Professor",
+          "company": "University of Houston",
+          "startDate": "2001"
+        }
+      ],
+      "education": [
+        {
+          "institution": "The University of Texas at Austin",
+          "degree": null,
+          "startYear": null,
+          "endYear": 1995
+        },
+        {
+          "institution": "University of Houston",
+          "degree": null,
+          "startYear": null,
+          "endYear": 1996
+        },
+        {
+          "institution": "University of Houston",
+          "degree": null,
+          "startYear": null,
+          "endYear": 2002
+        }
+      ],
+      "languages": [],
+      "websites": [],
+      "scrapedAt": "2026-10-06T00:44:47.871Z"
+    },
+    "instagram": {
+      "inputUrl": "https://www.instagram.com/brenebrown",
+      "id": "1148014",
+      "username": "brenebrown",
+      "url": "https://www.instagram.com/brenebrown",
+      "fullName": "Brené Brown",
+      "biography": "Researcher. Storyteller. Texan.\nHOU + ATX via SATX",
+      "externalUrls": [
+        {
+          "image_url": "",
+          "is_pinned": false,
+          "link_type": "external",
+          "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fbrenebrown.com%2Flinkinprofile%2F&e=AUAra2KCuDR7hCyK0rtjBH1lSk2pVTv2h4L_HpxRnwL9AxDGjl1f--0oEMDVQ2ZHuVXexTD9iAjFR7H2KeE1VOLrcDdtJLbUrN20Mjys6-qmr30P-4W7Q_uE3xvV3vYgwp8-P4MC00_haM6E3vCbdJSGcCG5kqYiMgWgmQ",
+          "media_accent_color_hex": "",
+          "media_type": "none",
+          "title": "brenebrown.com/link-in-profile",
+          "url": "https://brenebrown.com/linkinprofile/",
+          "creation_source": "NONE"
+        }
+      ],
+      "externalUrl": "https://brenebrown.com/linkinprofile/",
+      "externalUrlShimmed": "https://l.instagram.com/?u=https%3A%2F%2Fbrenebrown.com%2Flinkinprofile%2F&e=AUDqS70PGIPsjlBCWPhN_GmmNIsAQdfFejaWIKs1pV_TKaXoHD_X4kYGARl5z0MAFW56AdQRZ1cgCMWJkhz__2_Hb6Jg0320kBA8Jopd6Q6zg_657NXiH7UKR-1u1ibX80Dg6IcjOW-eSi0pAEKWVrZ_qGdNsZq-Ku8xYg",
+      "followersCount": 5260285,
+      "followsCount": 1944,
+      "isBusinessAccount": true,
+      "businessCategoryName": "None",
+      "private": false,
+      "verified": true,
+      "profilePicUrl": "https://scontent.cdninstagram.com/v/t51.82787-19/539271387_18535096267060015_1433504309762646190_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4sIYha4qyyIQ7kNvwFl7M24&_nc_oc=Adq2-qZiUUdtm0cfMM75Ui95h75L4d1SjAdZDnUNK00K7D16-dkNgICB0ep5mCmvWpz2tUTUhnvQOrD8SwzAWEGw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XjNnAr57TxxfsixJ8caQ-A&_nc_ss=70a8c&oh=00_AQPIHYcECPtL3IhnJ8pf46NPmpmOmxcfqKphNPpko8t-dQ&oe=6ACA2545",
+      "profilePicUrlHD": "https://scontent.cdninstagram.com/v/t51.82787-19/539271387_18535096267060015_1433504309762646190_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=4sIYha4qyyIQ7kNvwFl7M24&_nc_oc=Adq2-qZiUUdtm0cfMM75Ui95h75L4d1SjAdZDnUNK00K7D16-dkNgICB0ep5mCmvWpz2tUTUhnvQOrD8SwzAWEGw&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=XjNnAr57TxxfsixJ8caQ-A&_nc_ss=70a8c&oh=00_AQM4RXGrgGNT0InoiPeJWeJMT6u4j5NSwROkpDWpDVxsWA&oe=6ACA2545",
+      "latestIgtvVideos": [],
+      "postsCount": 1162,
+      "latestPosts": [
+        {
+          "id": "3998575905727212054",
+          "type": "Image",
+          "shortCode": "Dd9y5nUTmoW",
+          "caption": "This is one of my favorite @thecuriosityshop episodes. In a world where everyone and everything is fighting for our attention, our rage, and our money, we exam what makes us vulnerable to persuasion and how we can develop stronger influence literacy skills. \n\nIt’s the best kind of collision between Adam’s, “think like a scientist” research and my work on shame and vulnerability. \n\nBiggest finding: \nShame around being persuadable makes us more vulnerable to influence. Acknowledging that we are vulnerable to those reels and TikTok’s and snake oil pitches makes us more resistant! \n\nIf you want to dive into the original research - all of the studies are cited in the show notes for the podcast. \n\nYou can download or watch the episode now!",
+          "hashtags": [],
+          "mentions": [
+            "thecuriosityshop"
+          ],
+          "url": "https://www.instagram.com/p/Dd9y5nUTmoW/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1350,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/827422291_18646504120060015_7604568879191764601_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=HaZy9PlmfY8Q7kNvwHziCnS&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQObCpE2lRWuOH0sUXrD4Xj2dUHX87umPniOMs46pMHs9Q&oe=6ACA314C&_nc_sid=bc0c2c",
+          "images": [],
+          "alt": null,
+          "likesCount": -1,
+          "timestamp": "2026-10-01T20:49:02.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Adam Grant",
+              "id": "7961360855",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=-PUJMhA_q8AQ7kNvwFA5yx8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNf8Bv9osJMkPcemD5EI6H2e8Wz2z1IlDLE7kcvIpT1qw&oe=6ACA0D78&_nc_sid=bc0c2c",
+              "username": "adamgrant"
+            },
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3996941046474834867",
+          "type": "Image",
+          "shortCode": "Dd3_LR_T4Oz",
+          "caption": "@adamgrant and I loved talking with @angelalduckworth about her new book, “Situated.”\n\nBig takeaway:\n\n“To stay motivated through the countless hours of practice that separate amateurs from experts, grit is necessary but not sufficient. The situation also matters—and to an astonishing degree:\n\nCulture matters.\nMentors matter.\nTeammates matter.\nEven the objects in your personal space matter.\n\nHow you think about your goals and what you’re willing to do to achieve them depends on both you and your situation.”\n\nI also loved our conversation about billboards - those signs we post around our spaces as reminders of what’s important. It reminds of why I like to write in a room where my children’s art is hanging. The kids’ art is my favorite art and it’s imperfect and honest. Grit is great, but I also need the environment to say, “Have fun. Just start.”\n\nTo watch or listen to the episode, head to YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [
+            "adamgrant",
+            "angelalduckworth"
+          ],
+          "url": "https://www.instagram.com/p/Dd3_LR_T4Oz/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1350,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/825323399_18645708733060015_8399393665395695881_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=Ftp_1f9q9S0Q7kNvwEIx3Rs&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNmE5vAbQ8SLGGKZYRRgXeiaOCttSoqXYUoaZK1WEuorA&oe=6ACA261C&_nc_sid=bc0c2c",
+          "images": [],
+          "alt": null,
+          "likesCount": -1,
+          "timestamp": "2026-09-29T14:40:22.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Adam Grant",
+              "id": "7961360855",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=-PUJMhA_q8AQ7kNvwFA5yx8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNf8Bv9osJMkPcemD5EI6H2e8Wz2z1IlDLE7kcvIpT1qw&oe=6ACA0D78&_nc_sid=bc0c2c",
+              "username": "adamgrant"
+            },
+            {
+              "full_name": "Angela Duckworth",
+              "id": "2310117079",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/661472129_18521482804077080_2750790805551864150_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=Ip6s4-m9TKYQ7kNvwG_XjKm&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQOPoCcJreJ62L8pT2LC9bF6kIqfFjb23sdWqum2WkZjQw&oe=6AC9FCF1&_nc_sid=bc0c2c",
+              "username": "angelalduckworth"
+            },
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "coauthorProducers": [
+            {
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3986929898807440703",
+          "type": "Video",
+          "shortCode": "DdUa56KzTU_",
+          "caption": "To my Longhorn family: Try not to step in the bullshit left behind by small-minded people.\nStay strong. Like UT vs OSU strong. 🧡🤘🏻🤍",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/DdUa56KzTU_/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1912,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/812535303_18640979149060015_2657484404018937835_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=2iQ2Awxqk88Q7kNvwGixffe&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMDq1O_GRJOIwbCyHLRWkqk-uGHo2RLG4xUQbcVMX6v5w&oe=6ACA263B&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg4-2.cdninstagram.com/o1/v/t2/f2/m86/AQPrdnHp_wpRdf_xRgMUSV_sidffKklvd92niCKMqS8MI7PRLiFkkeDn9Bym9BxjdV5aGDOwhiVY7XnDPeCuhlkxQFEzjQdHwUFZAKM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ohc=Txs9gzj1LUgQ7kNvwEyLVQs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQyMjUyNjgyOTk3NTE5NiwiYXNzZXRfYWdlX2RheXMiOjIwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4c8b689fc99dc67a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81ODQxMUEyNzU2NUI5NUIzRjQyRDBERTNCQjI5NDQ5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E0NEJBMkVCMEMxMkQzMDQyMTgyRUQ1MzQ5ODdBN0FBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa42pLm-vGGBRUCKAJDMywXQC0U_fO2RaIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQP_egX13to8BdmMjxCHRmluKhdI-dNDvwOT_K_rwai75w&oe=6AC60DCE",
+          "likesCount": -1,
+          "videoViewCount": 188213,
+          "timestamp": "2026-09-15T19:05:48.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3984011929148385626",
+          "type": "Video",
+          "shortCode": "DdKDb3Jzula",
+          "caption": "Priya Parker, one of my favorite thinkers and writers, is joining @thecuriosityshop this week and we’re talking about fighting! Not “dukes up” fighting but how real heat and conflict can build connection if we’re willing to learn how to do it well.\n\nWhat I love about this conversation and Priya’s new book - “The Art of Fighting” - is being called to imagine a world where we unlearn and relearn what it means to gather and to disagree. And, she’s just so honest and fun!\n\nTo watch or listen to the full episode, head to YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [
+            "thecuriosityshop"
+          ],
+          "url": "https://www.instagram.com/p/DdKDb3Jzula/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1333,
+          "dimensionsWidth": 750,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/805660354_18639588361060015_8421620690688466534_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=Imv921dZZt4Q7kNvwHPuIVD&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNFdGyrl6OHdHObljYDC1WZ1OkdC2N3BDuOIg4EqSOf6g&oe=6ACA0CE0&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg4-2.cdninstagram.com/o1/v/t2/f2/m86/AQMs_JjJ00g8G3gzd_lxJxvIVQVKFA3AOMUGOGbMDQsAvWAmYtZ9Sh_OZs4L5R9baPxROxKe2x33JwzmIKdmzJnDtUlMkYRQacKN1yc.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ohc=h_eGRoz2in4Q7kNvwEif_WH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA2MDM1ODk3MzU4MDU1NiwiYXNzZXRfYWdlX2RheXMiOjI0LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f8a46ee68972d4ad&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MjQxOEE2M0YzMjlFMzEzQkJDMDZFREIxRUY5NjZCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzVDNEVERTQ1QkU3QUQ0MjI1OUNFQUJDNDA1ODlBRTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaYlKP_gZniAxUCKAJDMywXQFHyn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMRBHoOr-bhngA2DL8nNo3H02aZqeGK9JD9SW5nqiUnqg&oe=6AC61F6E",
+          "likesCount": -1,
+          "videoViewCount": 131287,
+          "timestamp": "2026-09-11T18:29:25.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Adam Grant",
+              "id": "7961360855",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=-PUJMhA_q8AQ7kNvwFA5yx8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNf8Bv9osJMkPcemD5EI6H2e8Wz2z1IlDLE7kcvIpT1qw&oe=6ACA0D78&_nc_sid=bc0c2c",
+              "username": "adamgrant"
+            },
+            {
+              "full_name": "Priya Parker",
+              "id": "41872871",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.2885-19/486752306_1377603103428362_6981849484539915916_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=G10LQrxUXaEQ7kNvwH_XcY2&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQO3z33zo8SRD-xdjuYVQXFt-oSUluZlxuh--EvHIlGQWg&oe=6ACA3019&_nc_sid=bc0c2c",
+              "username": "priyaparker"
+            },
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3981928313710954234",
+          "type": "Video",
+          "shortCode": "DdCprRDz8b6",
+          "caption": "Aaron Sandel @prof.sandel, an anthropologist and primatologist, has spent over a decade studying the Ngogo chimpanzees, witnessing one of the largest known chimp communities split into two factions.\n\nAaron helps Adam and I understand what chimpanzees can teach us about friendship, conflict, belonging, and human nature. He shares what he learned from watching these chimps show affection, navigate dominance hierarchies, and face the effects of division within their own community.\n\nAaron also reflects on what it was like to watch chimps he knew by name turn against one another, while exploring the surprising depth of bonds in this community.\n\nIf you’re trying to find me this semester, I’ll be the one sneaking into Aaron’s class at UT Austin! I have so many more questions!\n\nTo listen or watch the full episode, head to YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [
+            "prof.sandel"
+          ],
+          "url": "https://www.instagram.com/p/DdCprRDz8b6/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1920,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/801056259_18638550187060015_6365895965870514268_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=deCLvdv4ozoQ7kNvwE4dYPD&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQP2pnK5GrUIy-uuyw9evZYj0pmgGxgWFKG7mEbt93_rVg&oe=6ACA04DA&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOopSzzAn8aw_J-h9zqJasEFPp6pAR1aC7MMYAKzHe9N7HN0QVNkhyaZQADqHKNhdgYpvQtR2PIS0GAzPuQsSJ6QhpLsk5KF4WYk4I.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_ohc=652-EcvM3CQQ7kNvwFxTgq_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTQ2NTA5MTgxODI3Mjg3LCJhc3NldF9hZ2VfZGF5cyI6MjcsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=dfed052013befd67&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81QTRBNERDODYzNEYzOTZGOTZBRDQ2RjE5OTIwODM4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzczNDg1REQwMUVBNjJGRTE4NTQ5RjZCNTQ2NzFGOUJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACau4_n4irauAxUCKAJDMywXQEz1P3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQP8jSghCy1qfjQy2GNeiB8KsqvgDgknAYTPzvRw8v_hEA&oe=6AC62968",
+          "likesCount": -1,
+          "videoViewCount": 48967,
+          "timestamp": "2026-09-08T21:30:19.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Adam Grant",
+              "id": "7961360855",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=-PUJMhA_q8AQ7kNvwFA5yx8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNf8Bv9osJMkPcemD5EI6H2e8Wz2z1IlDLE7kcvIpT1qw&oe=6ACA0D78&_nc_sid=bc0c2c",
+              "username": "adamgrant"
+            },
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3979559860395928167",
+          "type": "Video",
+          "shortCode": "Dc6PJvBTWpn",
+          "caption": "GAME DAY! Hook ‘em! 🧡🤍🏈🤍🧡",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/Dc6PJvBTWpn/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1920,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/793840390_18637400797060015_3965549914271194050_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=EgLLtAwiENkQ7kNvwGDhDhq&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQP9kbIrpBALJXZmcWKSDverp6J9WJMRMtBaHCDVDzyOXg&oe=6ACA1928&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg4-2.cdninstagram.com/o1/v/t2/f2/m86/AQPFWwRPfFXHqBvN3--ptkFtW0Ym5zeFMkOnOHcmVbLVGHCdrc8-bm6yQubIhOeRY-DSwKkp-49QmEAFzLuETLpph-u4nsAoN9-zudw.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ohc=ucFTxLwub3YQ7kNvwFvIpLN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzODA3MDM3Mzg0MDQ1MywiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c5cd26dea525feed&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQTQ3MDQ1ODcxNTkzOEZEQTQ2ODIyOTUzRjdEQjE4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk4NDY5M0FDQTAzMTBCRDEwMzg5MjA4ODg5NkVFODgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaK2aO74-3DBhUCKAJDMywXQEK7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQNIhVTpj7xVAS3WUcGb6c14o7QkKzVrxwBJkRAG6W0uZw&oe=6AC60CB8",
+          "likesCount": -1,
+          "videoViewCount": 96964,
+          "timestamp": "2026-09-05T15:04:16.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Texas Football",
+              "id": "215119647",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/134775400_1039718043198715_7868065369290808980_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=jLUfQQHpuw0Q7kNvwELvMti&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQP9EKYk39T2-3-qBjfajEs3socfBx28wpuiauFMj4N03A&oe=6ACA0B3C&_nc_sid=bc0c2c",
+              "username": "texasfootball"
+            },
+            {
+              "full_name": "Texas Longhorns",
+              "id": "518314751",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/449535534_394527370286014_2461103701140858583_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=EllQTumG180Q7kNvwH5Gp5j&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQPfvPeEFRkFkRpL8JmAC0tSyM2Qm7HFeL1V0-EPE82jYA&oe=6AC9FC04&_nc_sid=bc0c2c",
+              "username": "texaslonghorns"
+            },
+            {
+              "full_name": "The University of Texas Longhorn Band",
+              "id": "320088335",
+              "is_verified": false,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/786993280_18618233941024336_529331667584767059_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTYuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=uJp6dkYPfUoQ7kNvwEzhYy5&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQPA5reI1VgES2BB_1ScbUNs9RVNFgbRApJrxq2Aet3_3w&oe=6ACA1048&_nc_sid=bc0c2c",
+              "username": "longhornband"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3978301121554573650",
+          "type": "Image",
+          "shortCode": "Dc1w8rHzGlS",
+          "caption": "Grateful for a mother who warned her daughters about the price she paid for trying to conform to nice girl culture in the 1950’s. We didn’t know all of the details of her wounds, but we fully understood the depth of her pain. \n\nWhen she died she had framed pictures of Gloria Steinem and Angela Davis over her desk.\n \nQuote: Gloria Steinem’s remarks at the National Organization for Women’s March for the Equal Rights Amendment, Washington, D.C., July 9, 1978, as reported in James Lardner and Neil Henry, “Over 40,000 ERA Backers March,” Washington Post, July 10, 1978\n\n📸 Warren K. Leffler",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/Dc1w8rHzGlS/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1350,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/792840881_18636820888060015_8686773081746269615_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=GZh88V8CzLkQ7kNvwESJUoy&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQOfqphB1sfSzDf_pwoD-SJxDq4wMAmGNsS7KikIXwZ-mA&oe=6ACA0A61&_nc_sid=bc0c2c",
+          "images": [],
+          "alt": null,
+          "likesCount": -1,
+          "timestamp": "2026-09-03T21:35:49.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "paidPartnership": false,
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3974532637448288798",
+          "type": "Image",
+          "shortCode": "DcoYGAzTToe",
+          "caption": "Celebrating Dolly has me thinking about the joy of reading books and how often I squander that pleasure by putting myself under pressure to consume pages. \n\nWe are all craving deep reading, deep thinking, and deep connection — and these all require deep time. \n\nI went back this morning and re-read the interview we did with @mayasmarty and was drawn to her phrase the “privilege of focus.” \n\nLet’s start a spiritual book club where we read what we want, when we want, no meetings or deadlines - just a shared reframe of deep time as subversive in a world of shallow distraction, addictive scrolling, and unrelenting attention grabbing. ❤️📖❤️",
+          "hashtags": [],
+          "mentions": [
+            "mayasmarty"
+          ],
+          "url": "https://www.instagram.com/p/DcoYGAzTToe/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1086,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/790847203_18635061331060015_5028177486649211878_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=NNkkHPvrUaAQ7kNvwHkACW8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQPJ9DR7jjYsQ_jsj3stKZ173A59sJqfDNK2jm-XJf3OiQ&oe=6ACA0BA0&_nc_sid=bc0c2c",
+          "images": [],
+          "alt": null,
+          "likesCount": -1,
+          "timestamp": "2026-08-29T16:38:50.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "paidPartnership": false,
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3972290424421098003",
+          "type": "Video",
+          "shortCode": "DcgaRhMTiIT",
+          "caption": "Sometimes shiny is great. Sometimes it’s dangerous.\n\nEpisode available on YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/DcgaRhMTiIT/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1920,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/786924874_18634037917060015_201210788461875843_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=L_SKXdZoLl4Q7kNvwHoT7X2&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQO492kv_OBaJX_r6tWwyuySMyHV4l-wCO2MKbJZQm0T4g&oe=6ACA263E&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg6-1.cdninstagram.com/o1/v/t2/f2/m86/AQONAYQ_yRNC4QYmNZDZqDclEMez7Q7QvBQPzhF607QU6lMB4Rzk-odsDHF_cZnn1P3m_b2t_WEae3qbWvYVsPagKrjK5_mwkog4dq4.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-cdg6-1.cdninstagram.com&_nc_ohc=vjXjsTk3EAIQ7kNvwG6xAz_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY5MTcyOTg2MTkxOTQ3MiwiYXNzZXRfYWdlX2RheXMiOjQwLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7e9de236d847b9c3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zQjRCRkY4MDQzQTAzOTMwNjM3RUMzOThCMEFFQzNBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdENDE2RjI5OUZGODBGNjYwRUMwMDY1ODA4OUJGRjk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbgi87X0aeBBhUCKAJDMywXQFfKn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMH2OhPp-hiqUUdltJoDp2_E-1G5Xub7pIJRLRSTT_Y3w&oe=6AC62D4C",
+          "likesCount": -1,
+          "videoViewCount": 174555,
+          "timestamp": "2026-08-26T14:20:23.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "coauthorProducers": [
+            {
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3971693065714669422",
+          "type": "Image",
+          "shortCode": "DceSczizhdu",
+          "caption": "You left our hearts better than you found them. Thank you, Dolly.\n\nDavid Gahr 📸",
+          "hashtags": [],
+          "mentions": [],
+          "url": "https://www.instagram.com/p/DceSczizhdu/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1080,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/785925483_18633757825060015_4576102838389645286_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=HpK6r0fmds0Q7kNvwH7xLE2&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQOXfZ35Tb6Wpr25nYivLPqNF-EKwpJXFXduf4BsmfDkKw&oe=6ACA0268&_nc_sid=bc0c2c",
+          "images": [],
+          "alt": null,
+          "likesCount": -1,
+          "timestamp": "2026-08-25T18:32:53.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "paidPartnership": false,
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3968119288615511656",
+          "type": "Video",
+          "shortCode": "DcRl3gQTaZo",
+          "caption": "The paradox of a pair of clocks. The magic of Chronos and Kairos or why I wear two watches! From my AMA this week on @thecuriosityshop. \n\nTo listen or watch the full episode, head to YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [
+            "thecuriosityshop"
+          ],
+          "url": "https://www.instagram.com/p/DcRl3gQTaZo/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1920,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/787830917_18634034821060015_531320268503668810_n.jpg?stp=dst-jpg_e15_fr_p1080x1080_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=h4SCEG4ChYsQ7kNvwF97Ho_&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNF6K2YsIWcl33wOOKh6qcSgZhL4n7omEPLKf2LC1o-og&oe=6ACA08A2&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg4-3.cdninstagram.com/o1/v/t2/f2/m86/AQNT7MS7sxUnHOSuyDKJ_-Z9sZ32CjhywaVqS_MKXQ-FVgJyagshH_XcMqumko2T46DCgkdU9s8PTEX67bguol5hxm2tNm5_yWXS36c.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_ohc=4cGKGyWvW-UQ7kNvwGptLVb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTA4ODczODM2MzU4MTQ1NSwiYXNzZXRfYWdlX2RheXMiOjQ2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bc4633db58aac206&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NTQyNjA0ODEwMDBGRDUzMDkzRTExRDA1QUI2QTY5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JGNDA4NEY0NURBMTBGMjI5RDQ4MzIwODU5MEVCQkIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaekNH29IzvAxUCKAJDMywXQFgVT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQMk1UMe-kFvSLJ0stqIiJtGw4MRXhT3UHDfIWXx-3oF_Q&oe=6AC63B10",
+          "likesCount": -1,
+          "videoViewCount": 396742,
+          "timestamp": "2026-08-20T20:12:43.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "coauthorProducers": [
+            {
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        },
+        {
+          "id": "3963686364151540994",
+          "type": "Video",
+          "shortCode": "DcB179oT-0C",
+          "caption": "A conversation about life, love, belonging, and why access matters. Grateful to our guest @johngreenwritesbooks.\n\nTo watch or listen to this episode, head to YouTube or wherever you listen to podcasts.",
+          "hashtags": [],
+          "mentions": [
+            "johngreenwritesbooks"
+          ],
+          "url": "https://www.instagram.com/p/DcB179oT-0C/",
+          "commentsCount": 0,
+          "dimensionsHeight": 1920,
+          "dimensionsWidth": 1080,
+          "displayUrl": "https://scontent-cdg4-2.cdninstagram.com/v/t51.82787-15/775591715_18629497561060015_6125807899106747998_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=wDKicqsmsFMQ7kNvwFYM8vL&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQPsTXZbtR0btpKexYyGiCzo8CZ4LDCB_PoGy7kINJ0rqA&oe=6ACA26F3&_nc_sid=bc0c2c",
+          "images": [],
+          "videoUrl": "https://scontent-cdg4-2.cdninstagram.com/o1/v/t2/f2/m86/AQMJ0n1WLErsxsmQv54zotn8WjEcLQtSyRUs-5-9jup-MCK7Lqf6aGt3-jxkzFRdlo58JtfNRZc_DdXdX5CbpI0AoDxIFKdxT554Raw.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_ohc=9lIzCzLs7hAQ7kNvwESH-XU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODg3OTMxNTk0MDY4Nzc2LCJhc3NldF9hZ2VfZGF5cyI6NTIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=8fdbfe7b9b04b1c6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQzRGODAzNTRENjk4QzcwQTc4MzNGNTM4M0EyQjFCNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ5NDM3QTAyRTcxRkM3REYyRTAyNEFCRjVBNUQzRjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQzP7zteSTAxUCKAJDMywXQFFan752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&_nc_ss=7a22e&_nc_zt=28&oh=00_AQOHKwoNKzRjA4SXGqx1g1damgIKu1woBAom5m0JRiT_7Q&oe=6AC6123A",
+          "likesCount": -1,
+          "videoViewCount": 103728,
+          "timestamp": "2026-08-14T17:26:03.000Z",
+          "childPosts": [],
+          "ownerUsername": "brenebrown",
+          "ownerId": "1148014",
+          "productType": "clips",
+          "paidPartnership": false,
+          "taggedUsers": [
+            {
+              "full_name": "Adam Grant",
+              "id": "7961360855",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/237482787_2873181819587799_4339487857512017479_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzcuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=-PUJMhA_q8AQ7kNvwFA5yx8&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQNf8Bv9osJMkPcemD5EI6H2e8Wz2z1IlDLE7kcvIpT1qw&oe=6ACA0D78&_nc_sid=bc0c2c",
+              "username": "adamgrant"
+            },
+            {
+              "full_name": "John Green",
+              "id": "343005985",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-3.cdninstagram.com/v/t51.2885-19/11349459_1623321747892571_615278259_a.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-cdg4-3.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=USLRGoBxSOUQ7kNvwEiJx2U&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQPlJS89988w41IlMHaylQZBZyBd2mlMKicOeq3asTXZ0Q&oe=6ACA3011&_nc_sid=bc0c2c",
+              "username": "johngreenwritesbooks"
+            },
+            {
+              "full_name": "The Curiosity Shop",
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "coauthorProducers": [
+            {
+              "id": "45254771041",
+              "is_verified": true,
+              "profile_pic_url": "https://scontent-cdg4-1.cdninstagram.com/v/t51.82787-19/653028151_18053419184507042_6437864818982347865_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjQuYzIifQ&_nc_ht=scontent-cdg4-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFAgmmIWH_Adz5ONZvtRhx7wCOL-GxEXFwK5qEfUPm63BtD7sMQ31_i14ubdKJIj5deXL2jJratjdhs2hTT0IDv&_nc_ohc=8CM3nhFYZuYQ7kNvwGmqgVW&_nc_gid=sglHIy8ZvKSOS3Djc3Dt3Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AQMJTr6ov56kyFoLodJnt76CLc4tBQyickPWWjd2DDiV_g&oe=6ACA26E8&_nc_sid=bc0c2c",
+              "username": "thecuriosityshop"
+            }
+          ],
+          "isCommentsDisabled": true
+        }
+      ],
+      "fbid": "17841401800420017"
+    }
+  }
+}
