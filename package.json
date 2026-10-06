@@ -1,0 +1,31 @@
+{
+  "name": "second",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "tsx --test lib/rank.test.ts lib/sources.test.ts lib/read.test.ts lib/meeting.test.ts",
+    "roster": "tsx scripts/roster.ts",
+    "season": "tsx scripts/season.ts",
+    "demo": "tsx scripts/build-demo.ts",
+    "dates": "tsx scripts/rounds.ts",
+    "agents": "tsx scripts/refresh-agents.ts"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-globe.gl": "^2.38.0",
+    "three": "^0.186.1",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.6",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

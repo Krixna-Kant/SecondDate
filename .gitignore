@@ -1,0 +1,24 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env
+.env.local
+tsconfig.tsbuildinfo
+
+# design references and unused art
+ui_reference/
+public/art/
+
+# debug scripts
+scripts/peek.ts
+scripts/resume.ts
+
+# pairs whose two pages did not match
+data/sources/adam-g.json
+data/sources/sara-blakely.json
+data/sources/tony-robbins.json
+public/portraits/adam-g.jpg
+public/portraits/sara-blakely.jpg
+public/portraits/tony-robbins.jpg
